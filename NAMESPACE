@@ -1,0 +1,2 @@
+importFrom("stats", "dchisq")
+export(LFDR.MM)
